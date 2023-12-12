@@ -1,4 +1,3 @@
 # codeTest
 hello 
-
-adding wsl
+i am new to coding 
